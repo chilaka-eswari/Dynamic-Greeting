@@ -1,4 +1,4 @@
-#Project Title: Dynamic Greeting
+Project Title: Dynamic Greeting
 
 Description:
 
